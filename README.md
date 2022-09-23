@@ -8,12 +8,12 @@ Random resources from the web
 
  - [Brownian Motion](https://people.bath.ac.uk/maspm/book.pdf) Book (pdf) by Peter Mörters and Yuval Peres.
 
- ## Lecture Notes
+## Lecture Notes
  - [Advanced Stochastic Processes](https://ocw.mit.edu/courses/15-070j-advanced-stochastic-processes-fall-2013/pages/lecture-notes/) MIT Open course.
 
 - [Monte Carlo Methods](https://people.maths.ox.ac.uk/gilesm/mc/) Course Material by Prof. Mike Giles, Oxford University.
 
- ## Youtube Tutorials
+## Youtube
 
 - [Computational Finance](https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB) Course is based on the book:
 "Mathematical Modeling and Computation in Finance: With Exercises and Python and MATLAB Computer Codes", by C.W. Oosterlee and L.A. Grzelak, World Scientific Publishing, 2019.
