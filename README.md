@@ -13,6 +13,8 @@ Random resources from the web
 
 - [Monte Carlo Methods](https://people.maths.ox.ac.uk/gilesm/mc/) Course Material by Prof. Mike Giles, Oxford University.
 
+- [LibreTexts Statistics Library](https://stats.libretexts.org/Bookshelves)
+
 ## Youtube
 
 - [Computational Finance](https://www.youtube.com/watch?v=IRMn6JQvU8A&list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB) Course is based on the book:
