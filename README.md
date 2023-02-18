@@ -36,4 +36,7 @@ Random resources from the web
 
 - [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options (1993)](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/Heston.pdf) by Heston 
 
+
 - [Pricing with a smile (1994)](http://spekulant.com.pl/article/Volatility%20Surface%20Modeling/dupire%20local%20vol.pdf) by Bruno Dupire
+
+- [Markov Representation of the Heath-Jarrow-Morton Model (2001)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6073) by Oren Cheyette; available in SSRN
