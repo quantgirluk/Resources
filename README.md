@@ -24,12 +24,16 @@ Random resources from the web
 
 ## Seminal Papers
 
-- [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/Heston.pdf) by Heston (1993)
-
 - [The pricing of options and corporate liabilities (1973)](https://www.cs.princeton.edu/courses/archive/fall09/cos323/papers/black_scholes73.pdf); the original Black-Scholes paper
+
+
+- [The Monte Carlo Method (1949)](https://people.bordeaux.inria.fr/pierre.delmoral/MetropolisUlam49.pdf) by Metropolis and Ulam; the first published mention of MC methods.
 
 - [A Theory of the Term Structure of Interest Rates (1985)](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf); the original CIR model paper by John C. Cox, Jonathan E. Ingersoll, Jr., Stephen A. Ross published in Econometrica.
 
-- [The Monte Carlo Method (1949)](https://people.bordeaux.inria.fr/pierre.delmoral/MetropolisUlam49.pdf) by Metropolis and Ulam; the first published mention of MC methods.
+- [Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation (1992)](http://efinance.org.cn/cn/FEshuo/Bond%20Pricing%20and%20the%20Term%20Structure%20of%20Interest%20Rates%20A%20New%20Methodology%20for%20Contingent%20Claims%20Valuation1992.pdf); by Heath, David , Robert Jarrow, and Andrew Morton; publised in Econometrica, Vol. 60, No. 1, (January 1992), pp 77-105.
+
+
+- [A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options (1993)](https://www.ma.imperial.ac.uk/~ajacquie/IC_Num_Methods/IC_Num_Methods_Docs/Literature/Heston.pdf) by Heston 
 
 - [Pricing with a smile (1994)](http://spekulant.com.pl/article/Volatility%20Surface%20Modeling/dupire%20local%20vol.pdf) by Bruno Dupire
