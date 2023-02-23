@@ -31,6 +31,8 @@ Random resources from the web
 
 - [A Theory of the Term Structure of Interest Rates (1985)](https://pages.stern.nyu.edu/~dbackus/BCZ/discrete_time/CIR_Econometrica_85.pdf); the original CIR model paper by John C. Cox, Jonathan E. Ingersoll, Jr., Stephen A. Ross published in Econometrica.
 
+- [The Term Structures of Oil Futures Prices (1991)](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf) by Jacques Gabillon; Oxford Institute for Energy Studies.
+
 - [Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation (1992)](http://efinance.org.cn/cn/FEshuo/Bond%20Pricing%20and%20the%20Term%20Structure%20of%20Interest%20Rates%20A%20New%20Methodology%20for%20Contingent%20Claims%20Valuation1992.pdf); by Heath, David , Robert Jarrow, and Andrew Morton; publised in Econometrica, Vol. 60, No. 1, (January 1992), pp 77-105.
 
 
