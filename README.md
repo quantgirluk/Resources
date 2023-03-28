@@ -8,12 +8,14 @@ Random resources from the web
 
  - [Brownian Motion](https://people.bath.ac.uk/maspm/book.pdf) Book (pdf) by Peter Mörters and Yuval Peres.
 
-## Lecture Notes
+## Lecture Notes and Slides
  - [Advanced Stochastic Processes](https://ocw.mit.edu/courses/15-070j-advanced-stochastic-processes-fall-2013/pages/lecture-notes/) MIT Open course.
 
 - [Monte Carlo Methods](https://people.maths.ox.ac.uk/gilesm/mc/) Course Material by Prof. Mike Giles, Oxford University.
 
 - [LibreTexts Statistics Library](https://stats.libretexts.org/Bookshelves)
+
+- [Rough volatility: An overview by Jim Gatheral](https://mfe.baruch.cuny.edu/wp-content/uploads/2018/02/RoughVolatilityColumbia2018.pdf)
 
 ## Youtube
 
