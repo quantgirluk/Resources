@@ -21,6 +21,7 @@ Random resources from the web
 "Mathematical Modeling and Computation in Finance: With Exercises and Python and MATLAB Computer Codes", by C.W. Oosterlee and L.A. Grzelak, World Scientific Publishing, 2019.
 - [Quantitative Risk Management](https://www.youtube.com/watch?v=lVYjLsmu4sk&list=PLjRMLLpI1_tMySFStRDW0fAw-ZefJ4KgG) Talks from the 29th International Summer School of the Swiss Association of Actuaries (2016-08-15), Lausanne.
 - [Research in Options](https://www.youtube.com/watch?v=8tr3EqTCv-E) Volatility derivatives andtrading by Bruno Dupire (2016)
+- [Rough volatility: An overview by Jim Gatheral (2017)](https://www.youtube.com/watch?v=gW073Tnx7CE) Presentation at the LSE Risk and Stochastics Conference 2017 by Jim Gatheral, Baruch College.
 
 ## Seminal Papers
 
